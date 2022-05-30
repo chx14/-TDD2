@@ -120,12 +120,12 @@ class NewVisitorTest(LiveServerTestCase):    #(1)
 
 
 
-# The page updates again, and now shows both items on her list
+        # The page updates again, and now shows both items on her list
 
-# Edith wonders whether the site will remember her list. Then she sees
-# that the site has generated a unique URL for her -- there is some
-# explanatory text to that effect.
+        # Edith wonders whether the site will remember her list. Then she sees
+        # that the site has generated a unique URL for her -- there is some
+        # explanatory text to that effect.
 
-# She visits that URL - her to-do list is still there.
+        # She visits that URL - her to-do list is still there.
 
 
