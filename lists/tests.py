@@ -111,3 +111,4 @@ class NewItemTest(TestCase):
         )
 
         self.assertRedirects(response, f'/lists/{correct_list.id}/')
+
